@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="026eb20d-b82d-499c-b8c9-453f667ce9a3" name="Changes" comment="added cra">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="026eb20d-b82d-499c-b8c9-453f667ce9a3" name="Changes" comment="devtools">
       <change beforePath="$PROJECT_DIR$/vite/src/zustand/useBearStore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite/src/zustand/useBearStore.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681807958797</updated>
       <workItem from="1681807959814" duration="6545000" />
-      <workItem from="1681820428260" duration="1627000" />
+      <workItem from="1681820428260" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="added cra">
       <created>1681821188767</created>
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681821188767</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="devtools">
+      <created>1681822086673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681822086673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added cra" />
-    <option name="LAST_COMMIT_MESSAGE" value="added cra" />
+    <MESSAGE value="devtools" />
+    <option name="LAST_COMMIT_MESSAGE" value="devtools" />
   </component>
 </project>
