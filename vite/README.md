@@ -1,0 +1,1 @@
+Measure-Command {yarn build}
